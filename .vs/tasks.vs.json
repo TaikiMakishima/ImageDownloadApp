@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "タスク-localConfig",
+      "appliesTo": "config/localConfig.config",
+      "type": "launch"
+    }
+  ]
+}
